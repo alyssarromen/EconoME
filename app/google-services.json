@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440311337394",
+    "project_id": "economefirebaseloginsignupdb",
+    "storage_bucket": "economefirebaseloginsignupdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440311337394:android:fc4ca51e81bf72b41f94ab",
+        "android_client_info": {
+          "package_name": "com.example.econome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrVIwyThmLv8iPRWkQ6xnLF1rNn86OWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
